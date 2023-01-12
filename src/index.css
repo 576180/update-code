@@ -1,0 +1,22 @@
+:root {
+  --color-dark: #000;
+  --color-blue: #b9b9b9;
+  --color-red: #ec4949;
+  --color-grey: #9b7272;
+}
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: white;
+  min-height: 100vh;
+  font-family: "Roboto", sans-serif;
+}
